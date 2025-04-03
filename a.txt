@@ -1,1 +1,2 @@
 this is a git file
+i am adding few line to the file to perform diff comnd
